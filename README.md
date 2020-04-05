@@ -28,8 +28,8 @@
 
 ### Evaluation Score
 
+- SVM: 0.661
 - AdaBoost: 0.710
-- SVM: 0.732
 - random forest: 0.795
 - DNN: 0.922
 
